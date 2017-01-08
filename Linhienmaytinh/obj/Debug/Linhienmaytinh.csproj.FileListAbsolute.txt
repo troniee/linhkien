@@ -1,0 +1,24 @@
+c:\users\administrator.vietforum\documents\visual studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\bin\Debug\Linhienmaytinh.exe.config
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\bin\Debug\Linhienmaytinh.exe
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\bin\Debug\Linhienmaytinh.pdb
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.Form1.resources
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.Properties.Resources.resources
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.csproj.GenerateResource.Cache
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.exe
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.pdb
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.FThemhang.resources
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.FBanhang.resources
+C:\Users\Administrator.VIETFORUM\Documents\Visual Studio 2012\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.FThongke.resources
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\bin\Debug\Linhienmaytinh.exe.config
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.exe
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.pdb
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\bin\Debug\Linhienmaytinh.exe
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\bin\Debug\Linhienmaytinh.pdb
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.FBanhang.resources
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.Form1.resources
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.FThemhang.resources
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.FThongke.resources
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Projects\Linhienmaytinh\Linhienmaytinh\obj\Debug\Linhienmaytinh.csprojResolveAssemblyReference.cache
